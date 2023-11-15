@@ -30,10 +30,6 @@ Step 7:Print Approximate Probabilities:
 (i) Print the calculated approximate probabilities for the specified query_variable.<br>
 
 ## Program :
-```
-Developed by: Sai Eswar Kandukuri
-Register Number: 212221240020
-```
 
 ### Import the necessary libraries
 ```
